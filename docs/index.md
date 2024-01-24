@@ -2,4 +2,4 @@
 
 demoapp-1
 
-Make change to build the doc only
+Make change to build the doc only remove yarn actions

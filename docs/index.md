@@ -1,3 +1,3 @@
-# quarkusapp Documentation
+# Quarkus App Documentation
 
 demoapp-1

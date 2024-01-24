@@ -12,6 +12,7 @@ on:
     paths-ignore:
       - "docs/**"
       - "mkdocs.yaml"
+      - ".github/**"
 
 jobs:
   build-and-tag:

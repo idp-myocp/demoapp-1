@@ -1,6 +1,6 @@
-site_name: 
-site_description: demoapp-1
-repo_url: https://github.com/
+site_name: demoapp-1
+site_description: User description for demoapp-1
+repo_url: https://github.com/idp-myocp/demoapp-1
 edit_uri: edit/main/docs
 
 plugins:

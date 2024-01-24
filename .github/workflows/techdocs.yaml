@@ -33,14 +33,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
-
-      - name: Setup local Turbo cache
-        uses: dtinth/setup-github-actions-caching-for-turbo@v1
-
-      - name: Install Dependencies
-        run: |
-          yarn install --frozen-lockfile
-
+          
       - name: Setup Python
         uses: actions/setup-python@v4
         with:

@@ -8,7 +8,6 @@ metadata:
     backstage.io/kubernetes-namespace: demoapp-1-dev
     argocd/app-name: demoapp-1-dev
     github.com/project-slug: idp-myocp/demoapp-1
-    janus-idp.io/tekton-enabled : 'true'
     backstage.io/techdocs-ref: url:https://github.com/idp-myocp/demoapp-1
     jira/project-key: ISSUEBD
     sonarqube.org/project-key: demoapp-1
